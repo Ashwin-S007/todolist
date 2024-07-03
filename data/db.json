@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "3",
+      "checked": true,
+      "item": "React JS"
+    },
+    {
+      "id": "31",
+      "checked": true,
+      "item": "Github"
+    },
+    {
+      "id": "311",
+      "checked": true,
+      "item": "aswin"
+    },
+    {
+      "id": "3111",
+      "checked": false,
+      "item": "Coding"
+    },
+    {
+      "id": "31111",
+      "checked": false,
+      "item": "Aptitude"
+    },
+    {
+      "id": "311111",
+      "checked": false,
+      "item": "HR"
+    }
+  ]
+}
