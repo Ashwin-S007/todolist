@@ -1,6 +1,5 @@
 
 import React from 'react'
-import itemsList from './itemsList';
 import { FaTrashAlt } from 'react-icons/fa';
 
 
